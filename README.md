@@ -16,7 +16,7 @@
 - SARIMA Model Development: Sruti
 - Prophet Model Development: Sruti
 - Result Analysis: Caitlin
-- Weekly Aggregation: Sruti
+- Weekly/Monthly Aggregation: Sruti
 - State-level Analysis: Caitlin
 
 ## Goals
