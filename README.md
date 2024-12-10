@@ -19,6 +19,9 @@
 - Weekly/Monthly Aggregation: Sruti
 - State-level Analysis: Caitlin
 
+## Running the Project
+Download the .ipynb files and the .csv files and run them in Google Colab or Jupyter Notebooks. Change the .csv file input in the python notebook as needed.
+
 ## Goals
 - Predict future high-interest periods for alcohol and marijuana
 - Identify patterns in search interest over time, location (state), and forecast potential spikes to perform targeted interventions, such as promoting healthier alternatives during high-interest periods. 
