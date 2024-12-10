@@ -10,14 +10,14 @@
 - Michelle Hui (Teaching Assistant)
 
 ## Individual Contributions
-Data Collection - Avritt
-Data Analysis - Caitlin
-Random Forest Model Development - Caitlin
-SARIMA Model Development - Sruti
-Prophet Model Development - Sruti
-Result Analysis - Caitlin
-Weekly Aggregation - Sruti
-State-level Analysis - Caitlin
+- Data Collection: Avritt, Sruti, Caitlin, Shreya
+- Data Analysis: Caitlin
+- Random Forest Model Development: Caitlin
+- SARIMA Model Development: Sruti
+- Prophet Model Development: Sruti
+- Result Analysis: Caitlin
+- Weekly Aggregation: Sruti
+- State-level Analysis: Caitlin
 
 ## Goals
 - Predict future high-interest periods for alcohol and marijuana
