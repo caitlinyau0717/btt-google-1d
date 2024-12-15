@@ -57,6 +57,6 @@ Testing out new models
 Further exploratory analysis
 - More demographics (gender, race, age)
 Adding on a sentiment analysis component 
-- Explore headline events 
+- Explore headline events to track trends based on sentiments
 Advertise substance awareness
 - Utilize generative AI to analyze news headlines and support advertising efforts
