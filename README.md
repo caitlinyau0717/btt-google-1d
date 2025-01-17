@@ -15,9 +15,11 @@
 - Random Forest Model Development: Caitlin
 - SARIMA Model Development: Sruti
 - Prophet Model Development: Sruti
-- Result Analysis: Caitlin
+- Result Analysis: Caitlin, Shreya
 - Weekly/Monthly Aggregation: Sruti
 - State-level Analysis: Caitlin
+- Weekly Predictions: Shreya
+- Model Evaluation: Shreya
 
 ## Running the Project
 Download the .ipynb files and the .csv files and run them in Google Colab or Jupyter Notebooks. Change the .csv file input in the python notebook as needed.
