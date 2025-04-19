@@ -10,6 +10,7 @@
 - Michelle Hui (Teaching Assistant)
 
 ## Individual Contributions
+- Documentation: Caitlin
 - Data Collection: Avritt, Sruti, Caitlin, Shreya
 - Data Analysis: Caitlin
 - Random Forest Model Development: Caitlin
